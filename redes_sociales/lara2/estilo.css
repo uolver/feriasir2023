@@ -1,0 +1,84 @@
+h2{ text-align: center ;}
+h1{ text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif, cursive; text-size-adjust: 30
+    ;}
+#ai{
+    border-radius: 10%;}
+    h1{ color: brown;
+    background-color: aqua;
+font-size: 40px
+;}
+    h2{background-color: black;
+    color: white;}
+    h3{ text-align: center;}
+    li{color: red;
+    font-size: 20px;}
+
+    p{line-height: 1.5
+        ;}
+    #soy{float: right;
+    width: 400px;}
+    #idea{float: left;
+    width: 40px;}
+    #si{width:100px;
+    float: right;}
+    #su{
+        float:right
+    }
+    #so{float: right;
+        width: 80px;}
+        #tablas{ color:brown}
+        #de{
+            color:rgb(9, 188, 243); }
+            #fake{
+            color: rgb(192, 110, 4); }
+            #news{ color: aqua;}
+h4{ font-size: 70px;
+text-align: center;}
+#yu{ float:right;
+width:200px}
+#ke{ float:left;
+width:200px
+}
+p{ font-size: 20px}
+.contenedor {
+    display: flex; 
+    align-items: center; }
+
+.imagen {
+    margin-right: 10px;}
+    p{font-family: 'Times New Roman', serif;}
+    h5{font-size: 50px; background-color: aquamarine;
+    color: brown;}
+    h6{
+        font-size: 25px;
+        color:rgb(26, 239, 243) ;
+        background-color: deeppink;
+    }
+    #ue{ color: blue;}
+    #je{color: chocolate;}
+    #ko{color:darkmagenta
+    }
+    #po{ color:darkolivegreen}
+    #lo{ color: black;}
+    .boton{
+        background-color: rgb(99, 31, 236);
+        color: brown;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 15px 50px;
+        border-radius: 25px;
+        }
+        .boton:hover{
+        background-color: aqua;
+        }
+        #ew{ width: 250px;}
+
+        #regresar{
+            border-radius: 30px;
+            background-color: coral;
+            padding: 10px;
+            display: inline-block;
+            text-align: center;
+            font-size: 30px;
+            margin: 30px;
+        }

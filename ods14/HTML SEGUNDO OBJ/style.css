@@ -1,0 +1,15 @@
+h1 {text-align:center;background-color:lightblue;}
+P {text-align: justify;font-size: larger;}
+#titulo_principal {font-size: 90px; text-align: center;}
+li {text-align: justify;font-size: large;}
+h2 {text-align: justify; text-decoration: underline; font-size: x-large;}
+
+#regresar{
+    border-radius: 30px;
+    background-color: coral;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    margin: 30px;
+}
