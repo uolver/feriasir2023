@@ -1,0 +1,104 @@
+table{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: rgb(183, 160, 243);
+}
+#titulos{
+    background-color:rgb(66, 87, 167) ;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#img1{
+float: right;
+margin-right: 50px;
+border: 2px solid rgb(138, 51, 129); 
+border-radius: 20%;  
+}
+
+#img2{
+    float: left;
+    margin-left: 50px;
+    border: 2px solid rgb(77, 51, 138); 
+    border-radius: 30%;  
+    }
+
+#img3{
+        float: right;
+        margin-right: 50px;
+        border: 3px solid rgb(51, 96, 138); 
+        border-radius: 50%;  
+        }
+
+ #img4{
+            float: left;
+            margin-left: 50px;
+            border: 3px solid rgb(51, 58, 138); 
+            border-radius: 80%;  
+            }  
+    
+#img5{
+    float: right;
+     margin-right: 50px;
+    border: 4px solid rgb(76, 132, 155); 
+border-radius: 90%;  
+                }   
+
+h2{text-align: center;}
+h1{text-align: center;}
+p{text-align: justify;}
+
+
+
+body{background-image: url(fondo.avif);background-size: 100%;}
+
+h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, cursive;color: rgb(149, 17, 136);}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, cursive; color: rgb(66, 44, 133); font-size: xx-large;}
+
+
+
+.boton{
+    background-color: rgb(178, 127, 226);
+    color:black;
+    font-weight:lighter;
+    text-decoration: none;
+    padding: 15px 50px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.boton:hover{
+    background-color: rgb(140, 234, 234);
+}
+
+div{
+    text-align: center;
+}
+
+h2{text-align: center;
+text-decoration: dotted cornflowerblue;}
+
+p{font-family: 'Jost', sans-serif;}
+
+li{font-family: 'Jost', sans-serif;}
+
+h1{font-family: 'Sedgwick Ave Display', cursive;}
+
+h2{font-family: 'IBM Plex Mono', monospace;}
+
+#video{text-align: center;}
+
+body{background-image: url(img6.avif) ;background-size: 100%;}
+
+#regresar{
+    border-radius: 30px;
+    background-color:deepskyblue;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    margin: 30px;
+}
