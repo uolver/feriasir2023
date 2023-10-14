@@ -1,0 +1,73 @@
+table{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: rgb(243, 184, 126);
+}
+#img1{
+    float: right;
+    margin-right: 40px;
+    border: 2px solid rgb(116, 25, 22); 
+    border-radius: 20%;  
+    }
+    h2{text-align: center;}
+    h1{text-align: center;}
+    p{text-align: justify;}
+    
+    body{background-image: url(fondo.avif);background-size: 100%;}
+    
+    h2{font-family: 'Dancing Script', cursive;color: red;}
+    h1{font-family: 'Lobster', cursive; color: brown; font-size: xx-large;}
+    
+    #hola{background-color: rgb(239, 192, 145);}
+
+    #hello{background-color: rgb(239, 166, 142);}
+    
+    p{font-family: 'IBM Plex Mono', monospace;}
+
+    li{font-family: 'IBM Plex Mono', monospace;}
+
+    table{font-family: 'IBM Plex Mono', monospace;}
+
+    h3{font-family: 'Outfit', sans-serif;color: sienna;font-size: x-large;}
+
+    body{background-image: url(img2.avif);background-size: 100%;}
+
+    #img2{
+        float: right;
+        margin-right: 50px;
+        border: 2px solid rgb(95, 62, 8); 
+        border-radius: 20%;  
+        }
+
+ #img3{
+            float: left;
+            margin-left: 50px;
+            border: 4px solid rgb(138, 109, 51); 
+            border-radius: 50%;  
+            }
+#img4{
+float: right;
+margin-right: 80px;
+border: 2px solid rgb(138, 51, 58); 
+border-radius: 80%;  
+                }
+                
+                #img5{
+                    float: left;
+                    border: 2px solid rgb(138, 84, 51); 
+                  
+                                    }
+                                                
+                                    #regresar{
+                                        border-radius: 30px;
+                                        background-color: coral;
+                                        padding: 10px;
+                                        display: inline-block;
+                                        text-align: center;
+                                        font-size: 30px;
+                                        margin: 30px;
+                                    }
