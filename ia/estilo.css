@@ -1,0 +1,31 @@
+h1{
+    font-size: 50px;
+    font-family: 'Exo 2', sans-serif;
+    color: darkblue;
+}
+h2{
+    font-size: 47px;
+    font-family: 'Kanit', sans-serif;
+}
+p{
+    font-size: 25px;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{background-image: url(img6.avif) ;background-size: 100%;}
+
+#regresar{
+    border-radius: 30px;
+    background-color: darkgrey;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+}
